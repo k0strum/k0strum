@@ -54,7 +54,7 @@
       </td>
     </tr>
   </table>
-</div>
+</div><br/><br/>
 
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #2e6cdf;">Studied</h2>
@@ -66,7 +66,7 @@
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   </p>
-</div>
+</div><br/><br/>
 
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #2e6cdf;">GitHub Stats</h2>
